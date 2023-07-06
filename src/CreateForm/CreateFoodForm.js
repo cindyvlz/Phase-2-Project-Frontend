@@ -13,7 +13,7 @@ function CreateFoodForm() {
     e.preventDefault();
 
     try {
-      const ingredientsArray = ingredients.split("\n"); // Split the ingredients string into an array
+      //const ingredientsArray = ingredients.split("\n"); // Split the ingredients string into an array
       const response = await fetch('https://backend-phase-2-project.onrender.com/foods', {
         method: 'POST',
         headers: {
