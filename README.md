@@ -1,3 +1,21 @@
+# Venezuelan Menu Project
+
+This is a React project that showcases a menu of delicious Venezuelan dishes. Whether you're a food enthusiast or just curious about Venezuelan cuisine, this project provides a visual and interactive experience to explore some of the country's most popular dishes.
+
+## Project Overview
+
+Venezuela is known for its rich culinary culture, with a diverse range of flavors and influences. This React project serves as a digital menu where users can browse through a selection of traditional Venezuelan dishes. It provides descriptions and images for each dish, helping users learn more about the country's culinary heritage.
+
+## Features
+
+- Browse a selection of Venezuelan dishes.
+- View detailed information and images for each dish.
+- Learn about the ingredients.
+- User-friendly and responsive design for various screen sizes.
+- Able to create a new dish of your preference.
+- It allows you to delete a dish you not longer need/want.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
